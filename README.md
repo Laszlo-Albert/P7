@@ -1,1 +1,1 @@
-# P7
+# Internal social media app
